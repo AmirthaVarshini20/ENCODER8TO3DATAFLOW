@@ -49,7 +49,9 @@ Figure 02  Encoder 8 * 3
 
 
 **PROGRAM**
+
 Developed by:V.Amirtha Varshini  RegisterNumber: 212224040021
+
 ![exp 4 deeee](https://github.com/user-attachments/assets/64e00b18-fd88-4dec-b580-70c597bdf467)
 
 
