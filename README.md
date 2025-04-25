@@ -62,7 +62,10 @@ Developed by:V.Amirtha Varshini  RegisterNumber: 212224040021
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 ![exp 4 3 dee](https://github.com/user-attachments/assets/e56c060e-bfef-45fc-bf49-5489a9fd2d1c)
 
+
+
 **RESULTS**
+
 implementing Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables executed succesfully.
 
 
